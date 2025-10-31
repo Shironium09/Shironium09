@@ -25,10 +25,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shironium09&show_icons=true&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97#gh-dark-mode-only" alt="shironium09" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironium09&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff#gh-dark-mode-only" alt="shironium09" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shironium09&show_icons=true&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironium09&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="180em" />
 </p>
