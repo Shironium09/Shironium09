@@ -2,12 +2,17 @@
 <h3 align="left">A Computer Science student with various interests that I want to explore on</h3>
 <p align="left">I like to do things that algns with my intersest or the ones that I find interesting. Currenlty, I am someone still searching for what I really want to do, that's why I'm exploring various fields in tech, from Programming, to Web Development, and right now, I'm currently exploring more on Web Development as well as a little bit of Data Science, AI/ML, and sometime in the future, fields such as DevOps, Cybersecurity, and more that I might find interesting along the way!</p>
 
+<br/>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dustin jesse balansag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dustin jesse balansag" height="30" width="40" /></a>
 <a href="https://fb.com/dustin jesse balansag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dustin jesse balansag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shironium09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shironium09" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,6 +29,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+
+<br/><br/><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shironium09&show_icons=true&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97" alt="GitHub Stats" height="180em" />
