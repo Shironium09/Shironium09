@@ -25,22 +25,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<!-- GitHub Stats (Light Mode) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shironium09&show_icons=true&locale=en&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=2f80ed#gh-light-mode-only" alt="shironium09" />
-</p>
-
-<!-- GitHub Stats (Dark Mode) -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shironium09&show_icons=true&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79ff97#gh-dark-mode-only" alt="shironium09" />
 </p>
 
-<!-- Top Languages (Light Mode) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironium09&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000#gh-light-mode-only" alt="shironium09" />
-</p>
-
-<!-- Top Languages (Dark Mode) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironium09&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff#gh-dark-mode-only" alt="shironium09" />
 </p>
