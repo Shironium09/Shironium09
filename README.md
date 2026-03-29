@@ -2,7 +2,7 @@
 <h3 align="left">A Computer Science student with various interests that I want to explore on</h3>
 <p align="left">I like cool things</p>
 <br/>
-<p align="left">Ask me about them, I'll do it!</p>
+<p align="left">Ask me about them!</p>
 
 
 <br/>
