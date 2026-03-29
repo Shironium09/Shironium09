@@ -1,6 +1,9 @@
-<h1 align="center">Hello, I'm Dustin Jesse Balansag!</h1>
+<h1 align="center">Hello</h1>
 <h3 align="left">A Computer Science student with various interests that I want to explore on</h3>
-<p align="left">I like to do things that algns with my intersest or the ones that I find interesting. Currenlty, I am someone still searching for what I really want to do, that's why I'm exploring various fields in tech, from Programming, to Web Development, and right now, I'm currently exploring more on Web Development as well as a little bit of Data Science, AI/ML, and sometime in the future, fields such as DevOps, Cybersecurity, and more that I might find interesting along the way!</p>
+<p align="left">I like cool things</p>
+<br/>
+<p align="left">Ask me about them, I'll do it!</p>
+
 
 <br/>
 <br/>
